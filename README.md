@@ -1,4 +1,4 @@
-سكربت محل الأسلحة من تصميمنا بشكل كامل
+سكربت ui من تصميمنا بشكل كامل
 Ui OL من تصميمنا بشكل كامل يحتوي على نظام Quick Clothing او شلح ولبس الملابس من زر Y ويحتوي على Chat And Shop Ui
 (اذا كنت حاب تشوف سكربتات اكثر حياك الدسكورد https://discord.gg/uxFNytnJQT )
 <img width="468" height="536" alt="image" src="https://github.com/user-attachments/assets/3e40ee56-fb2a-4040-b640-ee1969afec4d" />
